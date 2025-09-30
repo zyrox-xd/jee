@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jee/static/css/main.e11acd84.css",
+    "main.js": "/jee/static/js/main.150fbbff.js",
+    "static/js/453.91d236e4.chunk.js": "/jee/static/js/453.91d236e4.chunk.js",
+    "index.html": "/jee/index.html",
+    "main.e11acd84.css.map": "/jee/static/css/main.e11acd84.css.map",
+    "main.150fbbff.js.map": "/jee/static/js/main.150fbbff.js.map",
+    "453.91d236e4.chunk.js.map": "/jee/static/js/453.91d236e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e11acd84.css",
+    "static/js/main.150fbbff.js"
+  ]
+}
